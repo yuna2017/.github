@@ -1,8 +1,8 @@
-# 燕山大学学生网络信息协会
+
+<img src="https://yuna.team/logo-doubleline.svg" alt="燕山大学学生网络信息协会" style="padding: 40px 0;"/>
+
 
 [访问官网](https://yuna.team/) | [加入我们](https://yuna.team/join-us/how-to.html) | [English README](https://github.com/yuna2017/yuna.team/blob/main/README_en.md)
-
-这是燕山大学学生网络信息协会 (YUNA) [官方网站](https://yuna.team/)的仓库，采用 VitePress 构建。
 
 ## 关于协会
 
