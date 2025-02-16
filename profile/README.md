@@ -1,8 +1,12 @@
 
-<img src="https://yuna.team/logo-doubleline.svg" alt="燕山大学学生网络信息协会" style="padding: 40px 0;"/>
+<img src="https://yuna2017.github.io/yuna.team/logo-doubleline.svg" alt="燕山大学学生网络信息协会" style="padding: 40px 0;"/>
 
 
-[访问官网](https://yuna.team/) | [加入我们](https://yuna.team/join-us/how-to.html) | [English README](https://github.com/yuna2017/yuna.team/blob/main/README_en.md)
+[访问官网](http://yuna.team/) | [加入我们](http://yuna.team/join-us/how-to.html) | [English README](https://github.com/yuna2017/yuna.team/blob/main/README_en.md)
+
+> [!NOTE]
+>	此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。
+> 本页面最后更新时间：2025/02/17
 
 ## 关于协会
 
@@ -45,5 +49,5 @@
 
 如果你有任何疑问或反馈,欢迎随时与我们联系:
 
-- GitHub: [yuna2017/yuna.team](https://github.com/yuna2017/yuna.team)
-- 网站: [https://yuna.team](https://yuna.team)
+- GitHub: [yuna2017/yuna.team](http://github.com/yuna2017/yuna.team)
+- 网站: [http://yuna.team](http://yuna.team)
